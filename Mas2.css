@@ -1,0 +1,54 @@
+﻿html,
+body {
+    margin: auto;
+    height: 642px;
+    width:360px;
+}
+
+
+nav{
+    width:360px;
+    margin:auto;
+
+}
+
+.container {
+    background-color: #f0f0f0;
+    width: 360px;
+    margin:40px;
+    height:642px;
+    padding:0px;
+    max-width:360px;
+}
+
+input{
+    margin:auto;
+}
+.col{
+    margin:auto;
+}
+
+form{
+    margin:auto;
+}
+
+label{
+    margin:auto;
+}
+
+.row{
+    margin:auto;
+    margin-top:60px;
+    float:left;
+}
+
+button{
+    background-color: saddlebrown !important;
+    color:white!important;
+}
+
+
+
+
+
+
